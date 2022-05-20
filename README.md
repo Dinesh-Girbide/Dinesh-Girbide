@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dinesh-Girbide
 - 👀 I’m interested in FULL STACK Web Application Development
-- 🌱 I’m currently learning in CDAC Pune - e-DAC
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently working at Incubyte(https://www.incubyte.co/)
 - 📫 How to reach me -
           Mobile No - 7276740388 / 9603589641
           Email - ddgirbide@gmail.com
