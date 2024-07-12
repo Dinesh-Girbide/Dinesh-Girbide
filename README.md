@@ -3,7 +3,7 @@
 - 🌱 I’m currently working at Incubyte(https://www.incubyte.co/)
 - 📫 How to reach me -
           Mobile No - 7276740388 / 9603589641
-          Email - ddgirbide@gmail.com
+          Email - dinesh@incubyte.co/ddgirbide@gmail.com
 
 <!---
 Dinesh-Girbide/Dinesh-Girbide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
