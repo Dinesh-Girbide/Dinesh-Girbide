@@ -2,7 +2,7 @@
 - 👀 I’m interested in FULL STACK Web Application Development
 - 🌱 I’m currently working at Incubyte(https://www.incubyte.co/)
 - 📫 How to reach me -
-          Mobile No - 7276740388 / 9603589641
+          Mobile No - 7276740388
           Email - dinesh@incubyte.co/ddgirbide@gmail.com
 
 <!---
